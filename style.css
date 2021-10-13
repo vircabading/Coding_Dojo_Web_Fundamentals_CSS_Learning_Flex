@@ -4,3 +4,17 @@
     By: Virgilio D. Cabading Jr.
     Created: October 12, 2021 
     ////////////////////////////////////////////*/
+
+    .container {
+        width: 720px;
+        height: 250px;
+        background-color: silver;
+    }
+    .col {
+        width: 220px;
+        padding: 10px;
+        background-color: blanchedalmond;
+        display: inline-block;
+    }
+    
+    
